@@ -2,6 +2,8 @@
 title: Home
 layout: PageLayout
 sections:
+  - content: Hello this is the default value
+    type: MyNewSection
   - type: HeroSection
     elementId: homepage-hero-1
     colors: colors-e
