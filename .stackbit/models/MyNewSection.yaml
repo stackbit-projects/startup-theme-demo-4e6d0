@@ -7,3 +7,5 @@ fields:
   - type: string
     name: content
     default: Hello this is the default value
+  - type: text
+    name: text
