@@ -33,7 +33,7 @@ sections:
         padding:
           - pt-12
           - pb-12
-          - pr-16
+          - pr-32
           - pl-4
         alignItems: center
         justifyContent: flex-end
