@@ -4,6 +4,7 @@ layout: PageLayout
 sections:
   - content: Hello this is the default value
     type: MyNewSection
+    text: Some text
   - type: HeroSection
     elementId: homepage-hero-1
     colors: colors-e
