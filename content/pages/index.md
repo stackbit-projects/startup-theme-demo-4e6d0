@@ -48,7 +48,6 @@ sections:
         textAlign: left
       actions:
         justifyContent: flex-start
-    subtitle: Hello
     media:
       fields:
         - type: TextFormControl
