@@ -25,7 +25,6 @@ fields:
     default: The section subtitle
   - type: image
     name: image
-    
   - type: markdown
     name: text
     label: Text
