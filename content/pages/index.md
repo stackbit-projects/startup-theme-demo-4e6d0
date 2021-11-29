@@ -2,7 +2,7 @@
 title: Home
 layout: PageLayout
 sections:
-  - content: Hello this is the default value
+  - content: Hello this is the default value!!!
     type: MyNewSection
     text: Some text
   - type: HeroSection
