@@ -1,6 +1,7 @@
 name: MyNewSection
 label: New Section
-
+groups:
+  - sectionComponent
 fields:
   - type: string
     name: content
