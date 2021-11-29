@@ -5,7 +5,7 @@ import MyNewSection from './MyNewSection';
 
 registerComponents({
     // Register all Stackbit components
-    ...componentsMap
+    ...componentsMap,
 
     MyNewSection
     // Override any static or dynamic component,
