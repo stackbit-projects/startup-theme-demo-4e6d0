@@ -1,4 +1,4 @@
-export default function MyNewSection() {
+export default function MyNewSection(props) {
     return (
         
     )
