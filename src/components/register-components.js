@@ -7,7 +7,8 @@ registerComponents({
     // Register all Stackbit components
     ...componentsMap,
 
-    MyNewSection
+    MyNewSection,
+    HeroSection: 
     // Override any static or dynamic component,
     // or register your own dynamic component.
 });
