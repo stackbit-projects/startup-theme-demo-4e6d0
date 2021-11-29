@@ -79,7 +79,7 @@ sections:
           textAlign: left
       type: FormBlock
   - type: MyNewSection
-    
+    content: 
   - elementId: ''
     colors: colors-a
     backgroundImage: {}
