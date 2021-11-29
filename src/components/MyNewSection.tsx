@@ -1,3 +1,3 @@
-function MyNewSection() {
+export default function MyNewSection() {
     
 }
