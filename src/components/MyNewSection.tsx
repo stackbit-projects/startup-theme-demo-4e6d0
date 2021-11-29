@@ -1,7 +1,7 @@
 export default function MyNewSection({ content }) {
     return (
         <div>
-            <h1>Hello World</h1>
+            <h1>{content}</h1>
         </div>
     )
 }
