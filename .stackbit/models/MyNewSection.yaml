@@ -3,4 +3,4 @@ label: New Section
 fields:
   - type: string
     name: content
-    default: Hello wthis is 
+    default: Hello this is the default value
