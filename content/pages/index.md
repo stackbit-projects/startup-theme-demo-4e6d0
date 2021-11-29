@@ -78,6 +78,7 @@ sections:
         title:
           textAlign: left
       type: FormBlock
+  
   - elementId: ''
     colors: colors-a
     backgroundImage: {}
