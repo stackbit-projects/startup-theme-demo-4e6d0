@@ -32,6 +32,7 @@ export default function HeroSection(props) {
                 borderWidth: `${sectionBorderWidth}px`
             }}
         >
+            <h1>something</h1>
             {props.backgroundImage && heroBackgroundImage(props.backgroundImage)}
             <div
                 className={classNames(
