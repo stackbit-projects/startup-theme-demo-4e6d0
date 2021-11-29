@@ -8,7 +8,7 @@ registerComponents({
     ...componentsMap,
 
     MyNewSection,
-    HeroSection: 
+    HeroSection: dynamic(() => import('./HeroSection.tsx'))
     // Override any static or dynamic component,
     // or register your own dynamic component.
 });
