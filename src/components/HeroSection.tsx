@@ -1,8 +1,8 @@
 import * as React from 'react';
 import Markdown from 'markdown-to-jsx';
 import classNames from 'classnames';
-import { getComponent } from '@stackbit/component';
-import { mapStylesToClassNames as mapStyles } from '../../utils/map-styles-to-class-names';
+import { getComponent } from '@stackbit/components';
+import { mapStylesToClassNames as mapStyles } from '@stackbit/components/utils/map-styles-to-class-names';
 
 export default function HeroSection(props) {
     const cssId = props.elementId || null;
