@@ -80,6 +80,7 @@ sections:
         title:
           textAlign: left
       type: FormBlock
+    image: /images/apple.svg
   - type: MyNewSection
     content: This is my content
   - elementId: ''
